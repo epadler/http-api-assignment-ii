@@ -1,0 +1,21 @@
+{
+  "name": "http-api-assignment-ii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "pretest": "eslint ./src --fix",
+    "test": "echo \"Tests complete\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IGM-RichMedia-at-RIT/http-api-assignment-ii.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IGM-RichMedia-at-RIT/http-api-assignment-ii/issues"
+  },
+  "homepage": "https://github.com/IGM-RichMedia-at-RIT/http-api-assignment-ii#readme"
+}
